@@ -1,0 +1,5 @@
+streamlit>=1.25
+pandas>=1.5
+numpy
+python-dateutil
+googletrans==4.0.0-rc1

@@ -1,0 +1,29 @@
+Crop,Nitrogen (N) kg/ha,Phosphorus (P2O5) kg/ha,Potassium (K2O) kg/ha,Sulfur (S) kg/ha,Application Notes,Special Considerations
+Coconut,500-1000,320-500,1200-2000,0,Split doses (Sept & May),"High K requirement, add Mg if yellowing"
+Gram (Chickpea),15-20,50-60,17-40,0,Basal application,Legume - reduces N need
+Rice,120-175,40-60,40-60,0,Split application,N crucial for vegetative growth
+Wheat,80-170,30-60,40-80,0,1/3 N + full P&K basal,N&K most essential
+Jowar (Sorghum),40-90,20-45,20-45,0,"N in splits, P&K basal",Rainfed: reduce N&P by half
+Moth (Mothbean),20-30,2025-10-20,2025-10-20,0,Basal application,Legume crop
+Rapeseed & Mustard,60-90,60,40,20,Basal + top dressing,"Add boron, ideal NPK 4:2:1"
+Safflower,40-60,30-40,20-30,15-20,Basal application,Drought tolerant
+Sesamum (Sesame),35-120,23-60,23-60,20-40,Basal + foliar spray,Respond well to fertilizers
+Sunflower,40-60,30-90,30-60,25,Varies by irrigation,Add boron in deficit soils
+Urad (Black Gram),20-25,25-40,40,20-30,Basal application,Legume - starter N sufficient
+Arhar (Pigeonpea),25-30,60-80,40-50,20-30,Basal application,Legume - biological N fixation
+Cotton,50-100,25-50,25-50,0,Split application,High nutrient demand crop
+Horse-gram,12.5-20,25-30,12.5,20-30,Basal if deficient,Legume crop
+Niger Seed,20-30,15-25,2025-10-15,15-20,Basal application,Low input requirement
+Ragi (Finger Millet),40-60,20-30,20-30,0,"P&K basal, N in splits",Drought tolerant millet
+Tobacco,80-120,40-60,80-120,20-30,Split application,High K requirement
+Soyabean,20-30,40-60,20-40,20-30,Basal application,Legume - biological N fixation
+Sugarcane,150-250,60-80,80-120,30-40,Heavy N feeder,Multiple split applications
+Groundnut,15-25,40-60,20-40,20-30,Basal application,Legume - starter N sufficient
+Cotton(lint),80-100,40-50,40-50,0,Split application,Add micronutrients
+Castor seed,40-60,20-40,20-30,15-20,Basal application,Drought tolerant
+Bajra (Pearl Millet),40-80,20-40,20-30,15-20,Basal + top dressing,Drought tolerant millet
+Barley,60-90,30-40,20-30,15-20,Basal application,Lower N than wheat
+Small millets,30-50,15-25,2025-10-20,2025-10-15,Basal application,Low input requirement
+Sannhamp,15-20,30-40,20-30,20-25,Basal application,Green manure crop
+Other Rabi pulses,15-25,30-50,20-30,20-25,Basal application,Legume crops
+Other Kharif pulses,15-25,30-50,20-30,20-25,Basal application,Legume crops
